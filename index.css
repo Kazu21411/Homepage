@@ -9,8 +9,7 @@
     justify-content: flex-end;
     align-items: center;
     padding: 30px 10%;
-    background-color: #fff1ed
-    ;
+    background-color: #fff1ed;
   }
   .nav__links {
       list-style: none;
@@ -51,9 +50,7 @@
     .cta:hover {
       background-color: #edfbff;
     }
-    
-  
-    
+ 
     .menu {
       display: none;
     }
